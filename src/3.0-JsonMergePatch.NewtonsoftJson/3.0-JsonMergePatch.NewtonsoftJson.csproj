@@ -29,7 +29,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0" />
     <ProjectReference Include="..\3.0-JsonMergePatch.Document\3.0-JsonMergePatch.Document.csproj" />
-    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
   </ItemGroup>
 
 </Project>
